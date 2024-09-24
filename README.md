@@ -47,11 +47,13 @@ Nicole Penrose (npenrose@student.unimelb.edu.au)
 - [React-lasso-select 1.2.2](https://www.npmjs.com/package/react-lasso-select)
   
 #### Backend: 
-- [Python 3.10](https://www.python.org/downloads/)
-- [Django 4.2.4](https://www.djangoproject.com/download/)
-- Pillow 10.0.0 (pip install Pillow)
-- Django Rest Framework 3.14.0 (pip install djangorestframework)
-- Django CORS Headers 4.2.0 (pip install django-cors-headers)
+- [Python 3.12.6](https://www.python.org/downloads/)
+- [Django 5.1.1](https://www.djangoproject.com/download/)
+- Pillow 10.4.0 (pip install Pillow)
+- Django Rest Framework 3.15.2 (pip install djangorestframework)
+- Django CORS Headers 4.4.0 (pip install django-cors-headers)
+- Handle Python Dependencies with:
+  - ![img.png](readMeDocs/pythonDependenciesInstructions.png)
 
 ## Installations
 
